@@ -1,4 +1,4 @@
-# Ruby Objects Belong To Lab
+# Belongs To Lab
 
 ## Objectives
 
